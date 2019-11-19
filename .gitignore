@@ -1,0 +1,29 @@
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+.DS_Store
+.idea
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN
+
+node_modules/
+dist/
+
+**/*.log
+
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.local
+
+package-lock.json
+yarn.lock
